@@ -1,4 +1,4 @@
-#Autor: Pedro 
+#Autor: Pedro Sagastume 
 
 total=0
 cantidad=0
