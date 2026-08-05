@@ -1,3 +1,5 @@
+#Autor: Pedro 
+
 total=0
 cantidad=0
 
