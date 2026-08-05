@@ -1,9 +1,11 @@
 #Autor: Pedro Sagastume 
+#5 Agosto 2026 
+
 
 total=0
 cantidad=0
 
-while True: 
+while True:
     nota=float(input("Notas: "))
 
     if nota == -1:
